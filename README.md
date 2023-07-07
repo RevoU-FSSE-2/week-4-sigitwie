@@ -10,7 +10,7 @@ If you're interested in checking it out, here's the link for you
 # **Documentation**
 ## **1. Creating Branch, Adding Files, and Committing Changes on GitHub.**
 
-    This guide will walk you through the steps to create a new branch in a GitHub repository, add files, commit changes, push to GitHub, create a pull request, and merge it into the main branch (usually main) using the terminal and git commands from VS Code.
+This guide will walk you through the steps to create a new branch in a GitHub repository, add files, commit changes, push to GitHub, create a pull request, and merge it into the main branch (usually main) using the terminal and git commands from VS Code.
 
 Before you start, make sure you have the following prerequisites:
 
@@ -72,9 +72,9 @@ Before you start, make sure you have the following prerequisites:
     ```
     git push origin head
     ```
-    ![Push Changes](/git-img/Artboard-7.png)
+![Push Changes](/git-img/Artboard-7.png)
 
-    `push origin head` means that the changes were pushed to the GitHub repository in current working branch.  It prevents you from pushing to the wrong remote branch by accident.
+`push origin head` means that the changes were pushed to the GitHub repository in current working branch.  It prevents you from pushing to the wrong remote branch by accident.
 
 ### **Step 4 : Create Pull Request and Merge Branch from VS Code**
 
@@ -99,7 +99,7 @@ Before you start, make sure you have the following prerequisites:
 Congratulations! you have been successfully merged `local-branch` into `main` branch on your Github Repository.
 
 ## **2. Deployment With Netlify, Custom Domain and Setting DNS with Cloudflare.**
-    This documentation will guide you through the process of registering with Netlify, connecting it to your GitHub repository, enabling automatic deployment, and changing the domain. Follow the steps below to complete the task.
+This documentation will guide you through the process of registering with Netlify, connecting it to your GitHub repository, enabling automatic deployment, and changing the domain. Follow the steps below to complete the task.
 ### **Step 1: Registration on Netlify**
 1. Open https://www.netlify.com/ in your browser.
 2. Click the "Sign up" button to create a new account or "Login" if you already have the account. You can choose various options for creating a new account with email, gitlab or bitbucket account.
@@ -119,7 +119,7 @@ Congratulations! you have been successfully merged `local-branch` into `main` br
 7. Once your repository is connected, Netlify will automatically trigger deployments whenever changes occur in your GitHub repository.
 
 ### **Step 3: Buy Custom Domain**
-    This guide provides step-by-step instructions on how to configure a custom domain. Before proceeding with the steps below, make sure you have purchased a custom domain from Niaga Hoster or any other domain registrar.
+This guide provides step-by-step instructions on how to configure a custom domain. Before proceeding with the steps below, make sure you have purchased a custom domain from Niaga Hoster or any other domain registrar.
 
 1. Open https://www.niagahoster.co.id/ in your web browser.
 2. Look for the "Domain" feature on the Niagahoster homepage.
