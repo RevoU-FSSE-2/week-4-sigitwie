@@ -68,10 +68,9 @@ Before you start, make sure you have the following prerequisites:
 ### **Step 3 : Push to GitHub**
 
 1.   After committing the changes, run the following command to push the changes to the GitHub repository:
-
-    ```
+```
     git push origin head
-    ```
+``` 
 ![Push Changes](/git-img/Artboard-7.png)
 
 `push origin head` means that the changes were pushed to the GitHub repository in current working branch.  It prevents you from pushing to the wrong remote branch by accident.
