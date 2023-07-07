@@ -138,14 +138,14 @@ Example: yourdomainname.com.
 12. Once you're ready, click the or "Checkout Now" button to complete the purchase.
 13. Follow the further instructions from Niagahoster to finalize the payment process. 
 
-### **Step 4: Add Custom Domain to Netlify**
+### **Step 4 : Add Custom Domain to Netlify**
 1. In the Netlify dashboard, select the site for which you want to change the domain.
     ![Domain](/git-img/netlify-4.png)
 2. Click the "Domain settings" button.
 3. Choose the "Add custom domain" option.
 4. Enter the domain you want to use.
 
-### **Step 5 : DNS Configuration in Cloudflare**
+### **Step 5 : Cloudflare DNS Configuration**
 1. Open https://www.cloudflare.com/ in your web browser.
 2. If you don't have an account, sign up for a new account on Cloudflare.
     ![Add Cloudflare](/git-img/netlify-5.png)
